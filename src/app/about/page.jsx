@@ -14,7 +14,7 @@ return (
     <div className={styles.textContainer}>
     <h2 className={styles.subtitle}>Welcome to ParkEase!</h2>
     <h1 className={styles.title}>
-        We're all about making parking hassle-free and efficient for all.
+        We are all about making parking hassle-free and efficient for all.
     </h1>
     <p className={styles.desc}>
     ParkEase was born out of the frustration of finding and paying for parking in busy urban areas. 
