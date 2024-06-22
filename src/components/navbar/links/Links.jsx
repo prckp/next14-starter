@@ -39,9 +39,9 @@ return (
     {session?.user ? (
         <>
         {session.user?.isAdmin && <NavLink item={{ title: "Admin", path: "/admin" }} />}
-        <form action={handleLogout}>
+        {/* <form action={handleLogout}>
             <button className={styles.logout}>Logout</button>
-        </form>
+        </form> */}
         </>
     ) : (
         <NavLink item={{ title: "Login", path: "/login" }} />
