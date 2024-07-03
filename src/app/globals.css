@@ -1,8 +1,8 @@
 :root {
---bg: 	#202020;
---bgSoft: #474747;
---text: white;
---textSoft: #e5e5e5;
+--bg: white	;
+--bgSoft: #e5e5e5;
+--text: #202020;
+--textSoft:#474747 ;
 --btn: #d2b746;
 }
 
